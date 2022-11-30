@@ -5,3 +5,4 @@ Face recognition is a fascinating application in the field of image recognition.
 The goal of this project is to classify images of people into two classes: Glass and No-Glass based upon whether they wear a glass in the image or not. However, there is a variety in the shape, design and appearance of glasses which makes it challenging.
 
 
+  
